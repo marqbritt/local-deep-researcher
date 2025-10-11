@@ -23,7 +23,7 @@ See it in action or build it yourself? Check out these helpful video tutorials:
 
 Clone the repository:
 ```shell
-git clone https://github.com/langchain-ai/local-deep-researcher.git
+git clone https://github.com/marqbritt/local-deep-researcher.git
 cd local-deep-researcher
 pip install -e .
 ```
